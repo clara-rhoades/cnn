@@ -1,9 +1,7 @@
 # 📊 Diabetic Retinopathy Detection Using Convolutional Neural Networks 
 
 ## 📌 Overview
-This project implements a **Convolutional Neural Network (CNN)** to detect **diabetic retinopathy (DR)** from fundus retinal images.  
-DR is a leading cause of blindness worldwide, and early detection is critical for effective intervention.  
-Using a real-world dataset from Kaggle (APTOS 2019), I built a binary classifier to predict whether a patient should be referred for treatment.
+This project implements a **Convolutional Neural Network (CNN)** to detect **diabetic retinopathy (DR)** from fundus retinal images. DR is a leading cause of blindness worldwide, and early detection is critical for effective intervention. Using a subset of a real-world dataset from Kaggle (APTOS 2019), I built a binary classifier to predict whether a patient should be referred for treatment.
 
 ## 🎯 Project Goals
 - Implement an end-to-end ML pipeline for DR detection.
